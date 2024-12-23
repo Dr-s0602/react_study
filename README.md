@@ -19,11 +19,15 @@
 GitHub에서 프로젝트를 클론합니다:
 ### 3. 패키지 설치
 bash
+
 코드 복사
+
 npm install
 ### 4. 로컬 서버 실행
 bash
+
 코드 복사
+
 npm run dev
 ### 5. 브라우저에서 확인
 http://localhost:3000에 접속하여 프로젝트를 실행합니다.
